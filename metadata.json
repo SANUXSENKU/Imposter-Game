@@ -1,0 +1,6 @@
+{
+  "name": "IMPOSTER - Real-Time Multiplayer Word Deduction Game",
+  "description": "One word. One liar. Who can you trust? A polished real-time multiplayer social deduction word party game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
